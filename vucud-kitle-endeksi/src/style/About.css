@@ -1,0 +1,26 @@
+.page {
+    background-color: lightgray;
+    padding-bottom: 14.4%;
+}
+
+.About {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+
+}
+
+.title {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+.paragraph {
+    color: darkblue;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
